@@ -1,0 +1,3 @@
+ls -> Lista o que tem no diretório
+cd -> Muda de diretório.
+pdw -> Caminho absoluto de onde estou.
