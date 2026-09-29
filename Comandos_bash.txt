@@ -1,3 +1,5 @@
 ls -> Lista o que tem no diretório
 cd -> Muda de diretório.
 pdw -> Caminho absoluto de onde estou.
+cat -> exibe conteúdo do arquivo.
+rm -> remove arquivo ou diretório.
