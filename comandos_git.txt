@@ -2,3 +2,15 @@ git init . -> cria um repo git na pasta atual
 git status -> mostra o status do trabalho (de cada arquivo)
 git add nome_arquivo -> adiciona arqiuvo para ser commitado
 git commit -m "msg" -> faz commit do que estava para ser commitado
+
+## FLUXO DE TRABALHO
+
+1. Criar o diretorio do projeto
+2. Iniciar o git dentro do diretorio criado  (git init .)
+3. edita ou criar arquivos
+4. git status
+5. git add <nome arquivo>
+6. git status
+7. git commit -m “mensagem”
+8. git status
+9. volta para o passo 3
